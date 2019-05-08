@@ -1,6 +1,9 @@
 # data-science-resources
 A list of useful blog posts, papers, and websites for all things data science
 
+## General Resources
+- Technical Papers with code: https://paperswithcode.com/sota?fbclid=IwAR0e4hxCX0FFEpIvnGAp1scgBLSn84pB7DHvdTlQW4bSkLleQatZMec8nx0
+
 ## Deep Learning
 
 ### Deep NLP

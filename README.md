@@ -5,6 +5,7 @@ A list of useful blog posts, papers, and websites for all things data science
 - Technical Papers with code: https://paperswithcode.com/sota?fbclid=IwAR0e4hxCX0FFEpIvnGAp1scgBLSn84pB7DHvdTlQW4bSkLleQatZMec8nx0
 - Setting up data science repo: https://drivendata.github.io/cookiecutter-data-science/ 
 - Linux intro: https://www.guru99.com/linux-differences.html
+- Mac Terminal Setup: https://medium.freecodecamp.org/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38
 
 ## Deep Learning
 

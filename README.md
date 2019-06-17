@@ -6,6 +6,7 @@ A list of useful blog posts, papers, and websites for all things data science
 - Setting up data science repo: https://drivendata.github.io/cookiecutter-data-science/ 
 - Linux intro: https://www.guru99.com/linux-differences.html
 - Mac Terminal Setup: https://medium.freecodecamp.org/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38
+- virtualenv: https://www.dabapps.com/blog/introduction-to-pip-and-virtualenv-python/
 
 ## Deep Learning
 

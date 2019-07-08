@@ -16,3 +16,5 @@ A list of useful blog posts, papers, and websites for all things data science
 - BERT: https://jalammar.github.io/illustrated-bert/ 
 - RNN's: https://machinelearningmastery.com/models-sequence-prediction-recurrent-neural-networks/
 
+## Machine Learning
+- Model Evaluation: https://www.ritchieng.com/machine-learning-evaluate-classification-model/

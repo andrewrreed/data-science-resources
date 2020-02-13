@@ -19,4 +19,5 @@ A list of useful blog posts, papers, and websites for all things data science
 
 ## Machine Learning
 - Feature Selection: https://www.datacamp.com/community/tutorials/feature-selection-python
+- Choosing a feature selection method: https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/
 - Model Evaluation: https://www.ritchieng.com/machine-learning-evaluate-classification-model/

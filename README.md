@@ -18,4 +18,5 @@ A list of useful blog posts, papers, and websites for all things data science
 - RNN's: https://machinelearningmastery.com/models-sequence-prediction-recurrent-neural-networks/
 
 ## Machine Learning
+- Feature Selection: https://www.datacamp.com/community/tutorials/feature-selection-python
 - Model Evaluation: https://www.ritchieng.com/machine-learning-evaluate-classification-model/

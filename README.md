@@ -13,6 +13,7 @@ A list of useful blog posts, papers, and websites for all things data science
 - Correlation and Statistical Inference: https://towardsdatascience.com/eveything-you-need-to-know-about-interpreting-correlations-2c485841c0b8
 
 ## Interetability / Explainability
+- https://christophm.github.io/interpretable-ml-book/
 - Interpretability examples: https://github.com/jphall663/interpretable_machine_learning_with_python
 
 ## Deep Learning

@@ -8,6 +8,7 @@ A list of useful blog posts, papers, and websites for all things data science
 - Mac Terminal Setup: https://medium.freecodecamp.org/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38
 - virtualenv: https://www.dabapps.com/blog/introduction-to-pip-and-virtualenv-python/
 - Docker: https://rominirani.com/docker-tutorial-series-a7e6ff90a023
+- DS Interview Questions: https://github.com/alexeygrigorev/data-science-interviews
 
 ## Statistics
 - Correlation and Statistical Inference: https://towardsdatascience.com/eveything-you-need-to-know-about-interpreting-correlations-2c485841c0b8

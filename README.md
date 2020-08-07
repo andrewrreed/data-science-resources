@@ -33,3 +33,6 @@ A list of useful blog posts, papers, and websites for all things data science
 
 ## Application Development
 - Best Practices: https://12factor.net/
+
+## Production ML
+- Ultimate Guide to Deploying ML Models: https://mlinproduction.com/deploying-machine-learning-models/

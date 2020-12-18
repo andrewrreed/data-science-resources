@@ -10,6 +10,7 @@ A list of useful blog posts, papers, and websites for all things data science
 - Docker: https://rominirani.com/docker-tutorial-series-a7e6ff90a023
 - DS Interview Questions: https://github.com/alexeygrigorev/data-science-interviews
 - Applications of ML: https://github.com/eugeneyan/applied-ml
+- Good overview of how python virtual environments work: https://towardsdatascience.com/virtual-environments-104c62d48c54
 
 ## Statistics
 - Correlation and Statistical Inference: https://towardsdatascience.com/eveything-you-need-to-know-about-interpreting-correlations-2c485841c0b8

@@ -11,6 +11,8 @@ A list of useful blog posts, papers, and websites for all things data science
 - DS Interview Questions: https://github.com/alexeygrigorev/data-science-interviews
 - Applications of ML: https://github.com/eugeneyan/applied-ml
 - Good overview of how python virtual environments work: https://towardsdatascience.com/virtual-environments-104c62d48c54
+- A Practical Guide to Using setup.py: https://godatadriven.com/blog/a-practical-guide-to-using-setup-py/
+- How to Start a Data Science Project in Python: https://godatadriven.com/blog/how-to-start-a-data-science-project-in-python/
 
 ## Statistics
 - Correlation and Statistical Inference: https://towardsdatascience.com/eveything-you-need-to-know-about-interpreting-correlations-2c485841c0b8

@@ -39,6 +39,7 @@ A list of useful blog posts, papers, and websites for all things data science
 - Best Practices: https://12factor.net/
 - Building a python package: https://antonz.org/python-packaging/
 - The Good Research Code Handbook: https://goodresearch.dev/index.html
+- How to Set Up a Python Project For Automation and Collaboration: https://eugeneyan.com/writing/setting-up-python-project-for-automation-and-collaboration/
 
 ## Production ML
 - Ultimate Guide to Deploying ML Models: https://mlinproduction.com/deploying-machine-learning-models/

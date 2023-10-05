@@ -14,6 +14,7 @@ A list of useful blog posts, papers, and websites for all things data science
 - A Practical Guide to Using setup.py: https://godatadriven.com/blog/a-practical-guide-to-using-setup-py/
 - How to Start a Data Science Project in Python: https://godatadriven.com/blog/how-to-start-a-data-science-project-in-python/
 - Organize Python code like a PRO: https://guicommits.com/organize-python-code-like-a-pro/
+- Relieving your Python packaging pain: https://www.bitecode.dev/p/relieving-your-python-packaging-pain
 
 ## Statistics
 - Correlation and Statistical Inference: https://towardsdatascience.com/eveything-you-need-to-know-about-interpreting-correlations-2c485841c0b8
